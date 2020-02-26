@@ -153,6 +153,7 @@ header ul hr {
 }
 .slide.current {
   opacity: 1;
+  z-index: 1;
 }
 
 /* Background Images */
@@ -258,6 +259,7 @@ header ul hr {
   padding: 13px 15px;
   border-radius: 50%;
   outline: none;
+  z-index: 1;
 }
 
 .buttons button:hover {
