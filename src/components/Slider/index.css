@@ -1,0 +1,26 @@
+.carousel-indicators li {
+    border-radius: 50% !important;
+    background-color: rgba(255, 255, 255, 0);
+    width: 12px;
+    height: 12px;
+    margin: 0 12px 0 12px;
+    border: 2px solid rgb(220, 220, 220);
+    z-index: 1 !important;
+}
+
+.carousel-caption{
+    position: absolute;
+    right: 15%;
+    text-align: left;
+    bottom: 720px;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+img{ 
+    height: 93vh;
+}

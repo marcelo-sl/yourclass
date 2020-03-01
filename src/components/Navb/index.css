@@ -1,0 +1,34 @@
+.nav-black {
+    height: 7vh;
+    background-color:#0b0a0d;
+}
+
+.logo-text{
+    color: #f53506 !important;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.logo-icon {
+    color: #444;
+}
+
+/* Navbar hover effects */
+.nav-link {
+    display: flex;
+    align-items: center;
+    margin: 0px 0px 0px 10px;
+}
+
+
+.nav-link:hover {
+    height: 40px;
+    border-bottom: 2px solid #f53506;
+    color: #f53506;
+}
+
+.hr {
+    margin-left: 9px;
+    border: none;
+    border-right: 1px dotted #ffffff6e;
+}

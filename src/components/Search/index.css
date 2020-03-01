@@ -1,0 +1,20 @@
+.SearchBar {
+    width: 70%;
+    margin: 150px auto;
+    text-align: center;
+}
+
+h2 {
+    margin: 30px 0;
+}
+
+.button {
+    background: #f53506;
+    color: #fff;
+    border: none;
+}
+
+.button:hover {
+    background: #0b0a0d;
+    color: #f53506;
+}
